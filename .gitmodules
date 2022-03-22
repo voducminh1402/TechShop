@@ -1,0 +1,3 @@
+[submodule "TechShopAPI"]
+	path = TechShopAPI
+	url = https://github.com/voducminh1402/TechShopAPI.git
